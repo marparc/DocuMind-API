@@ -1,5 +1,5 @@
 
-DocuMind API is an AI-powered document intelligence system that allows users to upload PDFs, images, or text files and interact with them through a conversational interface. It extracts content using OCR, summarizes documents, answers questions with source-grounded accuracy, and supports semantic search through vector embeddings, effectively transforming files into a searchable knowledge base.
+DocuMind API is an AI-powered document intelligence system that allows users to upload PDFs or text files and interact with them through a conversational interface. It extracts content using OCR, summarizes documents, answers questions with source-grounded accuracy, and supports semantic search through vector embeddings, effectively transforming files into a searchable knowledge base.
 
 It is powered by LLaMA 3.3 70B via the Groq API for fast language model inference and uses BAAI/bge-base-en-v1.5 for high-quality semantic embeddings. The app is designed to prioritize both accuracy and speed while avoiding dependence on expensive proprietary models.
 
